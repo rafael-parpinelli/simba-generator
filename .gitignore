@@ -3,12 +3,9 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtualenv
+.venv/
 venv/
-venv*/
-.env
-.env.*
+venv311/
 
 # PyInstaller
 build/
@@ -22,8 +19,10 @@ dist/
 
 # Logs
 *.log
-.simba_cashway/
 
-# IDE
-.vscode/
-.idea/
+# Builds finais
+*.dmg
+*.app
+
+# Outputs gerados
+output/
