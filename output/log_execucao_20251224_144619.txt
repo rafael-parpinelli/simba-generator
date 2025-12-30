@@ -1,0 +1,10 @@
+✅ AGENCIAS gerado com sucesso (1 registros)
+✅ CONTAS gerado com sucesso (1 registros)
+✅ TITULARES gerado com sucesso (1 registros)
+❌ Erro ao executar EXTRATO: relation "public.simba_depara_codhis" does not exist
+LINE 57:         from public.simba_depara_codhis d
+                      ^
+
+✅ ORIGEM_DESTINO gerado com sucesso (2922 registros)
+📦 Arquivo ZIP final gerado: ./output/003-MPSP-001707-69_20251224_144543.zip
+🧹 Arquivos TXT removidos após compactação.

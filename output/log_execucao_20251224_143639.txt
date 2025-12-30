@@ -1,0 +1,8 @@
+✅ AGENCIAS gerado com sucesso (1 registros)
+✅ CONTAS gerado com sucesso (1 registros)
+✅ TITULARES gerado com sucesso (1 registros)
+⚙️ Tabela auxiliar/CTE de EXTRATO preparada.
+✅ EXTRATO gerado com sucesso (2856 registros)
+✅ ORIGEM_DESTINO gerado com sucesso (2922 registros)
+📦 Arquivo ZIP final gerado: ./output/003-MPSP-001707-69_20251224_143601.zip
+🧹 Arquivos TXT removidos após compactação.

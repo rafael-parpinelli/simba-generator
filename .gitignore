@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+venv*/
+.env
+.env.*
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+.simba_cashway/
+
+# IDE
+.vscode/
+.idea/

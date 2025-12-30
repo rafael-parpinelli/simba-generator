@@ -1,0 +1,18 @@
+simba_generator/
+│
+├── app.py
+├── simba_generator.py
+├── db_connector.py
+├── utils.py
+│
+├── consulta/
+│   ├── agencias.sql
+│   ├── contas.sql
+│   ├── titulares.sql
+│   ├── extrato.sql
+│   └── origem_destino.sql
+│
+├── output/
+│
+├── simba.ico        ← ícone (Windows)
+└── simba.icns       ← ícone (Mac)

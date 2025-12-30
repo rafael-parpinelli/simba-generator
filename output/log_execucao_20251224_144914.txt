@@ -1,0 +1,10 @@
+🚨 Erro durante a execução:
+Traceback (most recent call last):
+  File "/Users/rafaelparpinelli/Documents/Scripts/simba_generator/app.py", line 34, in run
+    resultado = gerar_arquivos_simba(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rafaelparpinelli/Documents/Scripts/simba_generator/simba_generator.py", line 63, in gerar_arquivos_simba
+    raise Exception(
+Exception: Existem 5 códigos de operação (CODHIS) sem mapeamento para o SIMBA.
+
+Acesse a configuração de códigos antes de gerar os arquivos.
